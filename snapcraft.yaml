@@ -1,0 +1,17 @@
+name: saybye
+version: '0.1'
+summary: Command-line tool for saying byebye to someone
+description: |
+  saybye	(print Bye Bye!)
+  saybye name 	(print $name Bye Bye!)
+grade: devel
+confinement: devmode
+
+apps:
+  saybye:
+    command: saybye
+
+parts:
+  say-bye:
+    plugin: nodejs
+    source: .
