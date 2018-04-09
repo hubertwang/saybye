@@ -1,0 +1,19 @@
+{
+  "name": "saybye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "saybye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubertwang/saybye.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubertwang/saybye/issues"
+  },
+  "homepage": "https://github.com/hubertwang/saybye#readme"
+}
