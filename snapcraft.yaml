@@ -1,5 +1,5 @@
 name: saybye
-version: git
+version: "0.1"
 summary: Command-line tool for saying byebye to someone
 description: |
   saybye      (print Bye Bye!)
