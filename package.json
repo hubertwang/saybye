@@ -9,10 +9,6 @@
   "bin": {
     "wethr": "wethr.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hubertwang/saybye.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {

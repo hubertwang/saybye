@@ -1,9 +1,9 @@
 name: saybye
-version: '0.1'
+version: git
 summary: Command-line tool for saying byebye to someone
 description: |
-  saybye	(print Bye Bye!)
-  saybye name 	(print $name Bye Bye!)
+  saybye      (print Bye Bye!)
+  saybye name (print $name Bye Bye!)
 grade: devel
 confinement: devmode
 
@@ -12,6 +12,6 @@ apps:
     command: saybye
 
 parts:
-  say-bye:
+  saybye:
     plugin: nodejs
     source: .
