@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-const say = require('say');
+// const say = require('say');
 
 let name = null;
 if (process && process.argv && Array.isArray(process.argv) && process.argv.length > 2) {
@@ -16,4 +16,4 @@ else
   message = name + ' ' + greeting;
 
 console.log(message);
-say.speak(message);
+// say.speak(message);
