@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/hubertwang/saybye/issues"
   },
-  "homepage": "https://github.com/hubertwang/saybye#readme"
+  "homepage": "https://github.com/hubertwang/saybye#readme",
+  "dependencies": {
+    "say": "0.14.0"
+  }
 }
