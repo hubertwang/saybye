@@ -1,11 +1,11 @@
 name: saybye
-version: "0.1"
+version: "1.0.0"
 summary: Command-line tool for saying byebye to someone
 description: |
-  saybye      (print Bye Bye!)
-  saybye name (print $name Bye Bye!)
-grade: devel
-confinement: devmode
+  saybye
+  saybye name
+grade: stable
+confinement: strict
 
 apps:
   saybye:
